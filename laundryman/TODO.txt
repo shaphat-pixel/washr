@@ -1,0 +1,28 @@
+FRONTEND TODOS
+
+# Home page with login and registration                     !!!DONE
+# Profile Page(with main working links links)               !!!DONE
+# working links from the profile page                       !!!DONE
+# place an order page with item addition working            !!!DONE
+# cart                                                      !!!DONE                                             
+# payment page                                              !!!DONE
+# current order page                                        !!!DONE
+# History page                                              !!!DONE
+# Order Tracking                                            !!!DONE
+
+
+
+
+BACKEND TODOS
+
+# User registration with email verification                 !!!DONE
+#Profile for each User                                      !!!DONE
+# Build ordering APIs                                       !!!DONE
+# Place and order cmptblt with front end                    !!!DONE
+# Cart                                                      !!!DONE
+# History comptblt with frontend                            !!!DONE
+# current Order comptblt with frontend                      !!!DONE 
+# Order Tracking                                            !!!DONE
+
+
+
